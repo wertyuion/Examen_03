@@ -28,4 +28,4 @@ Explicación de la data utilizada
 se utilizo la data de CSB
 
 Un diagrama de procesos del módulo miningscience
-![Diagrama](https://user-images.githubusercontent.com/104948605/172738828-8a90386f-425c-4284-ad1a-3ace80e199a2.jpg)
+
