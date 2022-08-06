@@ -1,0 +1,4 @@
+
+1. Halobacterium halobium bacterio-opsin activator (bat) gene (stop codon) and blp gene, complete cds
+689 bp linear DNA 
+L22007.1 GI:347254
